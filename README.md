@@ -1,15 +1,11 @@
-## Github keeps trying to format it when i dont want it to be formatted so this is what the code should be without formatting
-<img width="1801" height="163" alt="image" src="https://github.com/user-attachments/assets/6323b95e-3d26-4a6f-89f4-a1e765efe3de" />
-
-
+## Github keeps trying to format it when i dont want it to be formatted on here so in the code thing file it has the code for this! Keep in mind i have nooo clue how to properly code- im learning as i do this HAJHS-
+<br>
 > caps: replace with your own assets (added some graphics so it doesnt show up weird)<br>
 > Align: left, right, center
 > Width: Resize as you see fit <br>
 
 <img src="https://github.com/user-attachments/assets/4772cf32-b92b-44f4-9a3d-13aa11a008aa" align="left" width="40%"> <p align="center"> ${\textsf{\color{#fe3837}COLOR TXT}}$ <br> <img src="https://github.com/user-attachments/assets/2496366c-6f39-40ec-bb4a-018da1cb8812" height="40" width="240"/>
 <p align="center"> ${\textsf{\color{#fe3837}COLORED TXT}}$ ㅤ/ㅤ<i> TXT </i> <br> TXT ♡ TXT⠀⸝⠀TXT <br> TXT ⎯⎯⎯ TXT <br> ${\textsf{\color{#fe3837}TXT}}$⎯⎯TXTㅤ &&.ㅤ ${\textsf{\color{#fe3837}COLORED TXT}}$⎯⎯TXT. <br> <img src="https://github.com/user-attachments/assets/2496366c-6f39-40ec-bb4a-018da1cb8812" height="40" width="240"/> <br>${\textsf{\color{#fe3837}COLOR TXT}}$<br>
-
-
   
 > Drop down tab
 <details><summary> ⎯⎯ㅤ ${\textsf{\color{#fe3837}COLORED TXT.}}$ ღ </summary> TXT, TXT, TXT, <br> TXT, TXT,ㅤ<br> TXT,ㅤTXT,ㅤTXT. <br> ${\textsf{\color{#fe3837}COLORED TXT}}$ <br> </details>
